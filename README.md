@@ -1,4 +1,4 @@
-[[PRs Welcome]![CarEyeSmall](https://github.com/user-attachments/assets/ae71ff4b-bbc3-4aa8-af82-57bc4482cde1) ](CONTRIBUTING.md)
+![CarEyeSmall](https://github.com/user-attachments/assets/ae71ff4b-bbc3-4aa8-af82-57bc4482cde1)
 
 ## 📖 Table of Contents
 
@@ -18,23 +18,23 @@ CarEye: A learning repo focusing on automotive camera systems—exploring hardwa
 Tags: automotive-camera, sensor setups, ISP fundamentals, classic/ML-based algorithms, and hands-on implementations.
 
 ## 📁 Project Structure
-CarEye/
-├── docs/ # Datasheets, research papers, and learning notes
-├── hardware/ # Hardware schematics, sensor specifications
-├── firmware/ # Camera drivers and configuration scripts
-├── src/ # Core algorithm source code
-│ ├── isp/ # Image Signal Processing (e.g., Demosaic, HDR)
-│ ├── perception/ # Computer Vision (e.g., object detection, lane detection)
-│ ├── utils/ # Utility functions (image I/O, logging)
-│ ├── core/ # System core (data flow management)
-│ └── main.py # Main application entry point
-├── config/ # Configuration files (YAML)
-├── tests/ # Unit and integration tests
-├── data/ # Sample video/images and output data
-├── third_party/ # Third-party libraries and tools
-├── tools/ # Helper scripts for analysis and visualization
-├── README.md # This file
-└── requirements.txt # Python dependencies
+CarEye/<br>
+├── docs/ # Datasheets, research papers, and learning notes<br>
+├── hardware/ # Hardware schematics, sensor specifications<br>
+├── firmware/ # Camera drivers and configuration scripts<br>
+├── src/ # Core algorithm source code<br>
+│ ├── isp/ # Image Signal Processing (e.g., Demosaic, HDR)<br>
+│ ├── perception/ # Computer Vision (e.g., object detection, lane detection)<br>
+│ ├── utils/ # Utility functions (image I/O, logging)<br>
+│ ├── core/ # System core (data flow management)<br>
+│ └── main.py # Main application entry point<br>
+├── config/ # Configuration files (YAML)<br>
+├── tests/ # Unit and integration tests<br>
+├── data/ # Sample video/images and output data<br>
+├── third_party/ # Third-party libraries and tools<br>
+├── tools/ # Helper scripts for analysis and visualization<br>
+├── README.md # This file<br>
+└── requirements.txt # Python dependencies<br>
 
 
 ## ✨ Features
