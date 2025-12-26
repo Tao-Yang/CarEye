@@ -58,7 +58,7 @@ Ensure you have the following installed on your system:
 Follow these steps to set up the project locally:
 
 1.  **Clone the repository:**
-   git clone https://github.com/<your-username>/CarEye.git
+   git clone https://github.com<your-username>/CarEye.git
 bash
 cd CarEye
 
@@ -85,7 +85,7 @@ processed_image = demosaic_vvg(raw_image_array)
 
 ## 🤝 Contributing
 
-Contributions are highly welcome! Whether it's fixing a typo, adding a new algorithm, or improving documentation, your input is valuable. Please feel free to submit Pull Requests (PRs) or open issues for discussions [6,7](@ref).
+Contributions are highly welcome! Whether it's fixing a typo, adding a new algorithm, or improving documentation, your input is valuable. Please feel free to submit Pull Requests (PRs) or open issues for discussions.
 
 1.  Fork the Project.
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
@@ -97,7 +97,7 @@ Please read `CONTRIBUTING.md` for detailed guidelines.
 
 ## 📄 License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information [6](@ref).
+This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
 ## 🙏 Acknowledgments
 
